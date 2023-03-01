@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJ/1ODOY+t7fE6mR5N8f7vYOFWA2tdXBAYJm53XyxTKQpukTZ+iUNpX1uODcUxgVGdy7g+XbJv5AQipWi1knAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Apps\\C#\\GAP bot\\JodaSignals\\JodaSignals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cookie\\.nuget\\packages\\binance.net\\8.3.0\\binance.net.8.3.0.nupkg.sha512",
+    "C:\\Users\\Cookie\\.nuget\\packages\\cryptoexchange.net\\5.3.0\\cryptoexchange.net.5.3.0.nupkg.sha512",
+    "C:\\Users\\Cookie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Cookie\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Cookie\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Cookie\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Cookie\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Cookie\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Cookie\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Cookie\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Cookie\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Cookie\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

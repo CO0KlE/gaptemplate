@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="JodaSignals" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PriceDiff" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">1.2</Value>
+    </Setting>
+    <Setting Name="ChatId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">-836329846</Value>
+    </Setting>
+    <Setting Name="BotToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">neco:neconeco</Value>
+    </Setting>
+    <Setting Name="ChatIdLive" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">-1001354368544</Value>
+    </Setting>
+    <Setting Name="ContributionFilter" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">70</Value>
+    </Setting>
+    <Setting Name="BinanceKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">apikey</Value>
+    </Setting>
+    <Setting Name="BinanceSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">apikeyprivate</Value>
+    </Setting>
+    <Setting Name="Leverage" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="FinandySignal" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Force Finandy;secret;url id</Value>
+    </Setting>
+    <Setting Name="FinandyInfo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Force Finandy ANY;secret;url id</Value>
+    </Setting>
+    <Setting Name="BinanceSignal" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Force;secret;url id</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
